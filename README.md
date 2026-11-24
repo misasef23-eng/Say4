@@ -1,6 +1,7 @@
 # Thiết Bị Hỗ Trợ Giao Tiếp 4 Nút Nhấn Dùng ESP32
 *(Phiên bản tối giản, gọn đẹp, ít dây hàn cho người tai biến không thể nói)*
 
+When words are difficult, communication should not be
 ---
 
 ## 1. Mục tiêu & Kiểu dáng thiết kế
